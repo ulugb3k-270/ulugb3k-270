@@ -1,4 +1,4 @@
-### Hi there. I am Ulugbek Asadov <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e470c0vaa9r91miia9zl66rz82f3hpyd4gj3zssij4v&rid=giphy.gif&ct=s"  alt=""/>
+### Hi there. I am Ulugbek Asadov <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e470c0vaa9r91miia9zl66rz82f3hpyd4gj3zssij4v&rid=giphy.gif&ct=s" width="27px"  alt=""/>
 
 
 
