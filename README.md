@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ulugbek Asadov <iframe src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/hello-wave-hand-gM5qFksULw54NMWyry">via GIPHY</a></p>
+### Hi there. I am Ulugbek Asadov <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e470c0vaa9r91miia9zl66rz82f3hpyd4gj3zssij4v&rid=giphy.gif&ct=s"  alt=""/>
 
 
 
