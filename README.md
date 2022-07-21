@@ -1,4 +1,4 @@
-### Hi there. I am Ulugbek Asadov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7zz/gihpy.gif" width="27px"  alt=""/>
+### Hi there. I am Ulugbek Asadov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/gihpy.gif" width="27px"  alt=""/>
 
 
 
