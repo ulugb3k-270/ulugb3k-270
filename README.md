@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ulugbek</h1>
-<h3 align="center">React Developer from Karshi</h3>
+<h3 align="center">Frontned Developer</h3>
 
 - 🌱 I’m currently learning **NextJS and AnimeJS**
 
-- 👨‍💻 All of my projects are available at [admin.shorturl.uz](admin.shorturl.uz)
+- 👨‍💻 All of my projects are available at [ulugbekasadov.uz](ulugbekasadov.uz)
 
 - 💬 Ask me about **React, JS, TS, Redux**
 
 - 📫 How to reach me **admin@ulugbekasadov.uz**
 
-- 📄 Know about my experiences [admin.shorturl.uz](admin.shorturl.uz)
+- 📄 Know about my experiences [ulugbekasadov.uz](ulugbekasadov.uz)
 
-- ⚡ Fun fact **I code average 5 hours a day**
+- ⚡ Fun fact **I code average 8 hours a day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
